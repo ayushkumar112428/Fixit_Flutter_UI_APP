@@ -23,6 +23,7 @@ Key Features :
     -> Profile Screen: Contains user profile details and settings.
 
 Navigation Flow : 
+
   Login Process: After logging in, users go through several steps:
     -  Phone Authentication: Verifies the user's phone number.
     -  Location: Allows the app to access the user's location.
