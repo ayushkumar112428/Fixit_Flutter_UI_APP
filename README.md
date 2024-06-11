@@ -25,11 +25,13 @@ Key Features :
 Navigation Flow : 
 
   Login Process: After logging in, users go through several steps:
+  
     -  Phone Authentication: Verifies the user's phone number.
     -  Location: Allows the app to access the user's location.
     -  Payment Method: Sets up the user's payment preferences.
     -  Service Selection: Lets users choose the service they need.
     -  Pricing Review: Shows the pricing details (users can confirm or go back).
+    
   After completing these steps, users are taken to the Home Screen.
 
 Development Approach :
